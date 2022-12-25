@@ -1,0 +1,1 @@
+右键打开git base,到当前文件夹，输入git push origin main，即可与GitHub同步
