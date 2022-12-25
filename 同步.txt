@@ -1,1 +1,4 @@
-右键打开git base,到当前文件夹，输入git push origin main，即可与GitHub同步
+右键打开git base,到当前文件夹，先git status 查看待上传的文件
+再用git add 文件名+后缀添加到【临时缓冲区】
+再git commit -m "commit 文件名 file"提交到本地仓库
+最后输入git push origin main，即可与GitHub同步
