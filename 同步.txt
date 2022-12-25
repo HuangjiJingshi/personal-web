@@ -2,3 +2,4 @@
 再用git add 文件名+后缀添加到【临时缓冲区】
 再git commit -m "commit 文件名 file"提交到本地仓库
 最后输入git push origin main，即可与GitHub同步
+最后有报错就多试几次，大概率网不好
